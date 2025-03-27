@@ -1,4 +1,6 @@
-A voice reconition engine developed in C# Winforms. Accepts certain commands which include:
+# Voice assistant in C#
+
+## A voice reconition engine developed in C# Winforms. Accepts certain commands which include:
 Hello <br>
 How are you <br>
 What time is it <br>
